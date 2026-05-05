@@ -1,7 +1,9 @@
+import Body from "./Components/Body";
+
 function App() {
   return (
     <>
-      <h1 className="text-xl font-bold text-red-800">Netflixgpt</h1>
+      <Body />
     </>
   );
 }
